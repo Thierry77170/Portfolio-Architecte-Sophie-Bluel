@@ -16,6 +16,6 @@ J'ai créé une page web dynamique pour un site d'architecture d'intérieur en u
 ## Les technologie utilisées
 
 - HTML 5
-_ CSS 3
+- CSS 3
 - JavaScript
 - API REST (Swagger)
